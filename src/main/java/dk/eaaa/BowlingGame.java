@@ -22,7 +22,7 @@ public class BowlingGame {
 				firstRollInFramesdaasd = false;
 			}
 		} else {
-			frames[currentFrame].rollSecond(pins);
+			frames[currentFrame].rollSesdasdasdcond(pins);
 			newFrame();
 		}
 	}
