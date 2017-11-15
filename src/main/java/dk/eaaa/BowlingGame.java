@@ -19,7 +19,7 @@ public class BowlingGame {
 			if (pins == 10) { // Strike
 				newFrame();
 			} else {
-				firstRollInFrame = false;
+				firstRollInFramesdaasd = false;
 			}
 		} else {
 			frames[currentFrame].rollSecond(pins);
